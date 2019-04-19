@@ -71,7 +71,8 @@ h2 {
 
 
 .page-nav {
- 
+ position: absolute;
+ padding-left: 1000px
 }
 
   .page-nav ul {
